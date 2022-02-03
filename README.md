@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Todor914
 - 👀 I’m interested in C/C++, Python, Wordpress
-- 🌱 I’m currently learning Kotlin, C/C++
+- 🌱 I’m currently learning Kotlin, C/C++, Java
 - 📫 How to reach me: todorg98@gmail.com
 
 <!---
